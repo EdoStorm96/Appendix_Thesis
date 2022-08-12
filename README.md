@@ -18,3 +18,5 @@ emtstorm@hotmail.com
 - spreadsheets_used_for_analysis folder: This folder contains the spreadsheets, which I have used for my analysis.
 - txt_data_periods folder: Here is some example text to work with the n-gram code. These are books obtained from Project Gutenberg.
 - word_embedding_outputs: This contains outputs of the word embedding procedure in the Jupyter notebook.
+
+Edo Storm, 2022
