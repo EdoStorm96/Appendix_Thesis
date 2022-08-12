@@ -8,13 +8,13 @@ This research project traces the history of the idea of the West in Dutch discou
 
 A quick overview of what is included:
 
-- Appendix_thesis_Edo_storm.ipynb: This file is a Jupyter notebook, which contains the main code which I have used for this research project, as well as some explanation of what the code does. As I was not able to upload the raw text data or my models to github, because of their size, this code will unfortunately not run. If anyone want to test the code, with my models and text data, please get in touch:
+- Appendix_thesis_Edo_storm.ipynb: This file is a Jupyter notebook, which contains the main code which I have used for this research project, as well as some explanation of what the code does. As I was not able to upload the raw text data or my models to github, because of their size, this code will unfortunately not run. If anyone wants to test the code with my models and text data, please get in touch:
 
 emtstorm@hotmail.com
 
 - ngram_outputs folder: This is where the results of the n-gram operations show up.
 - plots folder: This is where the plots made using this code are stored.
-- resources folder: Here is a list of the stop words that I used in my preprocessing step.
+- resources folder: This folder contains a list of the stop words that I used in my preprocessing step.
 - spreadsheets_used_for_analysis folder: This folder contains the spreadsheets, which I have used for my analysis.
-- txt_data_periods folder: Here is some example text, to work with the n-gram code. These are books obtained from Project Gutenberg.
+- txt_data_periods folder: Here is some example text to work with the n-gram code. These are books obtained from Project Gutenberg.
 - word_embedding_outputs: This contains outputs of the word embedding procedure in the Jupyter notebook.
