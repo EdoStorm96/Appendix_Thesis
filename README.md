@@ -12,6 +12,7 @@ A quick overview of what is included:
 
 emtstorm@hotmail.com
 
+- Onze_Westerse_Beschaving_A_Conceptual_History_Of_The_Idea_Of_The_West_In_The_Netherlands_1875-1994_Edo_Storm.pdf: This is my MA Thesis, which includes a lot more info about the project.
 - ngram_outputs folder: This is where the results of the n-gram operations show up.
 - plots folder: This is where the plots made using this code are stored.
 - resources folder: This folder contains a list of the stop words that I used in my preprocessing step.
