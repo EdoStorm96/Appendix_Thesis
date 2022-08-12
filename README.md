@@ -1,5 +1,4 @@
 # Appendix Thesis
-Edo Storm
 
 This is the Appendix to my MA Thesis: “Onze Westerse Beschaving”: A Conceptual History of the Idea of the West in the Netherlands, 1875-1994.
 
