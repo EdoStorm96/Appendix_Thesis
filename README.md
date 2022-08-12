@@ -3,7 +3,7 @@ Edo Storm
 RMA History
 Utrecht University
 Dr. Pim Huijnen
-August 2022
+August 2022 
 
 This is the Appendix to my MA Thesis: “Onze Westerse Beschaving”: A Conceptual History of the Idea of the West in the Netherlands, 1875-1994.
 
